@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Name of overlay [CHAR LIMIT=64] -->
+    <string name="wallpaper_zoom_disabler_title" translatable="false">Wallpaper Zoom Disabler</string>
+</resources>

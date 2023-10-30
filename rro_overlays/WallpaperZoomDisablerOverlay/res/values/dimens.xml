@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Disables wallpaper zoom -->
+    <dimen name="config_wallpaperMaxScale">1.0</dimen>
+</resources>

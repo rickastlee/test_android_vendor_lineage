@@ -16,3 +16,7 @@ PRODUCT_PACKAGES += \
 # Recorder
 PRODUCT_PACKAGES += \
     Recorder
+    
+# Wallpaper zoom disabler
+PRODUCT_PACKAGES += \
+    WallpaperZoomDisablerOverlay
